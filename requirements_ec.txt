@@ -1,0 +1,13 @@
+# APP
+streamlit==1.36.0
+streamlit-reveal-slides==0.2.0
+streamlit-code-editor==0.1.21
+
+# UTILITIES
+python-dotenv==1.0.1
+requests==2.32.3
+pandas
+loguru
+
+# LOCAL PACKAGES
+-e .
