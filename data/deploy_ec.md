@@ -16,7 +16,7 @@ Esta guía detalla el proceso para desplegar una aplicación Streamlit en una in
 ### 1. Conexión al Servidor EC2
 
 ```bash
-ssh -i "C:\Users\Eduardo\Documents\ANALITIKA\DEV\AWS\DS-WEBSITE\ds-ec.pem" ubuntu@ec2-15-236-203-235.eu-west-3.compute.amazonaws.com
+ssh -i "C:\Users\Eduardo\Documents\ANALITIKA\DEV\AWS\DS-WEBSITE\ds-ec.pem" ubuntu@ec2-35-181-1-148.eu-west-3.compute.amazonaws.com
 
 ```
 

@@ -49,3 +49,6 @@ currState = rs.slides(sample_markdown,
                                     },
                     markdown_props={"data-separator-vertical":"^--$"},
                     key="foo")
+
+if currState["indexh"] == 0:
+    st.markdown("- Press the `F` key on your keyboard to enter full-screen presentation mode. Press `ESC` to exit full-screen mode. \n- Press the `O` of `ESC` key to enter and exit overview mode")
